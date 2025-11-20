@@ -26,6 +26,10 @@ Just run the program and you will be ready to start making a list. See the comma
 * **Changed** commands format : commands now take a backslash to make it easier to differentiate them from regular text.
 * **Removed** redundant command : exit.
 
+**V2.1.0** [Nov20 2025] :  
+* **Added** two new commands : /clear and /save.
+* **Added** the ability to save and load the list.
+
 ## About
 
-This is a side project that I am making to get better with Rust. I will try to add as many functionalities to make this manager actually useful and to learn as much as I can in the process. 
+This is a side project that I am making to get better with Rust. I will try to to make this manager actually useful and try to learn as much as I can in the process. 
